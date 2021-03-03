@@ -2,12 +2,29 @@
   text-decoration: none;
   color: black;
 }
+.sketch {
+  width: 400px;
+  height: 400px;
+}
+#AlbumCover {
+  width: 600px;
+  height: 600px;
+}
 .box {
-  position: fixed;
+  padding: 2%;
+  float: none;
   text-align: center;
-  float: left;
   width: auto; /* three boxes (use 25% for four, and 50% for two, etc) */
-  padding: 2px;
+  margin: auto;
+  border: 5px solid rgb(120, 120, 120);
+  background-color: rgb(245, 245, 245);
+  text-decoration: none;
+}
+.sketchbox {
+  align-content: left;
+  padding: 2%;
+  float: none;
+  width: 600px; /* three boxes (use 25% for four, and 50% for two, etc) */
   margin: auto;
   border: 5px solid rgb(120, 120, 120);
   background-color: rgb(245, 245, 245);
