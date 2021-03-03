@@ -25,5 +25,6 @@ p {
 .photo {
   display: block;
   margin: auto;
-  max-width: 500px;
+  width: 200px;
+  height: 500px;
 }
