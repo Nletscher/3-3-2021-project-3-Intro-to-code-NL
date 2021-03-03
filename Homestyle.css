@@ -1,0 +1,29 @@
+p {
+  text-align: center;
+}
+
+.box {
+  max-width: 500px;
+  min-width: 100px;
+  text-align: center;
+  float: none;
+  width: 80%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 5%;
+  margin: auto;
+  border: 5px solid rgb(120, 120, 120);
+  background-color: rgb(245, 245, 245);
+  text-decoration: none;
+}
+.textinbox {
+  text-decoration: none;
+  color: black;
+}
+.headertext {
+  float: none;
+  text-align: center;
+}
+.photo {
+  display: block;
+  margin: auto;
+  max-width: 500px;
+}

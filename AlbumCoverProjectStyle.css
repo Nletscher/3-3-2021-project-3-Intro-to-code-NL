@@ -1,0 +1,15 @@
+.textinbox {
+  text-decoration: none;
+  color: black;
+}
+.box {
+  position: fixed;
+  text-align: center;
+  float: left;
+  width: auto; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 2px;
+  margin: auto;
+  border: 5px solid rgb(120, 120, 120);
+  background-color: rgb(245, 245, 245);
+  text-decoration: none;
+}
